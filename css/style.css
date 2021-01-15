@@ -1,0 +1,84 @@
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.intro {
+    background-color: rgb(255, 250, 242);
+}
+
+.myfont_two ,h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color:darkblue;
+}
+.myfont {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px ;
+    font-weight: 800;
+    color: #1d1c6d;
+    line-height: 4rem;
+}
+
+.myfont span {
+    color: green;
+}
+
+.myfont_one {
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: darkblue;
+}
+
+.dollar {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(32, 207, 55);
+    font-weight: 900;
+}
+
+.bord {
+    padding: 1rem;
+}
+
+.imgbg {
+    background-color: rgb(214, 214, 214);
+    border-radius: 1rem;
+}
+
+#stay_tunned{
+    height: 300px;
+}
+#stay_tunned h6{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.text_color {
+    color: black;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+@media (max-width : 765px){
+    .texting {
+        text-align: center;
+    }
+}
+
+.bonus {
+    height: 300px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    background-color: rgb(220, 255, 255);
+    border-radius: 1rem;
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+}
